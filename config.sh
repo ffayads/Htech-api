@@ -1,8 +1,5 @@
-export GO111MODULE=auto
-export GOPATH=/var/www/html/Golang
-
 export DBNAME=htech
-export USERNAME=paymentez
+export USERNAME=htech
 export USERPASS=12345
 export DBHOST=localhost
 export DBPORT=3306

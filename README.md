@@ -8,7 +8,7 @@
 ## Instalacion
 ````
 go get github.com/gin-gonic/gin
-github.com/gin-contrib/secure
+go get github.com/gin-contrib/secure
 go get github.com/appleboy/gin-jwt
 go get github.com/jinzhu/gorm
 go get github.com/go-sql-driver/mysql
